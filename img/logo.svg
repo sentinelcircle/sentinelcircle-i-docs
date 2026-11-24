@@ -1,0 +1,15 @@
+<svg width="108" height="108" viewBox="0 0 108 108" xmlns="http://www.w3.org/2000/svg">
+  <!--
+    Matches app/src/main/res/drawable/ic_launcher_foreground.xml exactly (same ring/ray geometry,
+    same app's-own real domain colors: safe=green, unsafe=red) so the docs-site navbar mark and
+    the real Android launcher icon are the same design, not two different things.
+  -->
+  <circle cx="54" cy="54" r="54" fill="#0F1416"/>
+  <path
+    fill="#F44336"
+    d="M80.26,50.78L86.40,54.00L80.26,57.22Z M77.14,66.83L80.21,73.04L73.35,72.05Z M65.18,77.98L64.01,84.81L59.05,79.97Z M48.95,79.97L43.99,84.81L42.82,77.98Z M34.65,72.05L27.79,73.04L30.86,66.83Z M27.74,57.22L21.60,54.00L27.74,50.78Z M30.86,41.17L27.79,34.96L34.65,35.95Z M42.82,30.02L43.99,23.19L48.95,28.03Z M59.05,28.03L64.01,23.19L65.18,30.02Z M73.35,35.95L80.21,34.96L77.14,41.17Z"/>
+  <circle cx="54" cy="54" r="23.76" fill="none" stroke="#388E3C" stroke-width="2.81"/>
+  <circle cx="54" cy="54" r="16.2" fill="none" stroke="#4CAF50" stroke-width="3.02"/>
+  <circle cx="54" cy="54" r="9.18" fill="none" stroke="#81C784" stroke-width="3.24"/>
+  <circle cx="54" cy="54" r="3.456" fill="#C8E6C9"/>
+</svg>
